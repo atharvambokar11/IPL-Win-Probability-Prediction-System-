@@ -1,4 +1,6 @@
 # IPL-Win-Probability-Prediction-System-
+A machine learning projec that predicts match outcomes based on real-time game statistics in the second innings.
+
 Calculation Probability with the inputs:
 ![Calculating Probability](https://github.com/user-attachments/assets/20473f0f-90f8-4dd8-a51a-0fc667cdd9ba)
 

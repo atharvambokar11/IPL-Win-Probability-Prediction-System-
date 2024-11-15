@@ -18,4 +18,7 @@ https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 - Py-Charm
 - Machine Learning algorithms
 
-  
+  ## Contact
+
+- Email: atharv.ambokar1@gmail.com
+- Linkedin: https://www.linkedin.com/in/atharv-ambokar-57b371166/
